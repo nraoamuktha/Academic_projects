@@ -18,7 +18,3 @@ This project encapsulates a comprehensive analysis of customer acquisition strat
 - **Marketing Strategy Development**: Assists in crafting targeted marketing strategies based on proven acquisition channels.
 - **Customer Insight Generation**: Offers deep insights into customer preferences and behavior.
 - **Business Growth**: Helps in identifying areas for business expansion and customer base growth.
-
-## Limitations and Scope for Future Work
-- **Data Scope**: Discuss any limitations regarding the dataset (like timeframe or geographical coverage).
-- **Updates**: Future versions might include updated data or additional metrics.
